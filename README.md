@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelpenney
 - 👀 I’m interested in skiing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m a freshmen in college
 - 📫 How to reach me scpenney2@gmail.com
 - 😄 Pronouns: he/him
