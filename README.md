@@ -2,7 +2,7 @@
 <h3 align="center">A freshman in college at University of Montana</h3>
 
 
-- 🔭 I’m currently working on **Expanding my knowledge in programming**
+- 🔭 I like **accepting challenges way past my skill level that will challenge me and help me grow as a programmer**
 
 - 🌱 I’m currently learning **C++ and Javascript**
 
