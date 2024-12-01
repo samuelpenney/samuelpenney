@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **expanding my skills as a programmer**
 
-- 🌱 I’m currently learning **C++ and Javascript**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **scpenney2@gmail.com**
 
