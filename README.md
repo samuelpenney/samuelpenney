@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **expanding my skills as a programmer**
 
-- 🌱 I’m currently learning **C++** and **UnReal**
+- 🌱 I’m currently learning **Java** and **Godot**
 
 - 📫 How to reach me **scpenney2@gmail.com**
 
