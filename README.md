@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Penney</h1>
-<h3 align="center">A freshman in college at University of Montana</h3>
+<h3 align="center">A sophomore in college at University of Montana</h3>
 
 
 - 🔭 I'm currently working on **expanding my skills as a programmer**
