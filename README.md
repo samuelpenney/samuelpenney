@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **expanding my skills as a programmer**
 
-- 🌱 I’m currently learning **Data Structures** in classes and **c++** on my own
+- 🌱 I’m currently learning **Data Structures and Web Development** in classes and **c++** on my own
 
 - 📫 How to reach me **scpenney2@gmail.com**
 
