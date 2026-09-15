@@ -3,7 +3,7 @@
 <h3 align="center">Studying Software Engineering and Cybersecurity Management</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on expanding my skills as a programmer<br>🌱 I’m currently learning Data Structures and Web Development in classes and c++ and swift on my own<br>📫 How to reach me scpenney2@gmail.com<br>
+🔭 I'm currently working on expanding my skills as a programmer<br>🌱 I’m currently learning Data Structures and Web Development in classes and c++ and swift on my own<br>📫 How to reach me scpenney2@gmail.com<br>🌐 Here is my website: https://scpenneyportfolio.web.app/<br>
 
 
 ## 🌐 Socials:
